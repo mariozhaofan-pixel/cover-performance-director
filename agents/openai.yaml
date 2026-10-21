@@ -1,0 +1,4 @@
+interface:
+  display_name: "翻唱表演导演"
+  short_description: "整曲分轨识词，核算声线与歌曲总额度，按导演五栏编译翻唱提示词"
+  default_prompt: "使用 $cover-performance-director，根据我的完整歌曲与角色资产自动分离人声、分析歌词并预留音色4秒后按参考总额度拆段，以导演五栏完成整首翻唱提示词编译，伴奏备用。"
